@@ -3,4 +3,4 @@
 This is the shared Github code and data repository for members of CABAH. 
 
 [<img src="profile/CabahFCP.jpg" alt="Centre of Excellence for Australian Biodiversity and Heritage" width="130" align="right" />](http://EpicAustralia.org.au)
-[<img src="profile/australian-research-council.png" alt="Australian Research Council" width="130" align="right" />](http://www.arc.gov.au)
+[<img src="profile/australian-research-council.png" alt="Australian Research Council" width="330" align="left" />](http://www.arc.gov.au)
