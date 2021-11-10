@@ -21,7 +21,7 @@ Content examples:
 - <a href="https://github.com/CABAH/assignDOI">assignDOI</a>: Assign a digital object identifier (DOI) to your Github repository
 - <a href="https://github.com/CABAH/FAIR_Workshop_github">FAIR_Workshop_github</a>: A repository for practising the basic use of Github
 
-### Resources
+### Software/utilities
 - <a href="https://github.com/CABAH/QGIS">QGIS</a>: A free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 
 [<img src="profile/CabahFCP.jpg" alt="Centre of Excellence for Australian Biodiversity and Heritage" width="170" align="right" />](http://EpicAustralia.org.au)
