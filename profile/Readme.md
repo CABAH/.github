@@ -5,10 +5,10 @@ This is the shared Github code and data repository for members of CABAH. Curated
 Content examples:
 
 ### Databases
-- <a href="https://github.com/CABAH/OCTOPUS">OCTOPUS</a>: Open Cosmogenic Isotope and Luminescence Database
 - <a href="https://github.com/CABAH/FosSahul">FosSahul</a>: A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates
 - <a href="https://github.com/CABAH/MegafaunaSusceptibility">MegafaunaSusceptibility</a>: R code for building stochastic demographic models of extinct megafauna of Sahul
 - <a href="https://github.com/CABAH/neotoma2">Neotoma</a>: This R package pulls data from the Neotoma Palaeoecology Database, an online hub for data, research, education, and discussion about palaeoenvironments
+- <a href="https://github.com/CABAH/OCTOPUS">OCTOPUS</a>: Open Cosmogenic Isotope and Luminescence Database
 
 ### Scripts
 - <a href="https://github.com/CABAH/holoflow">holoflow</a>: Bioinformatics pipeline for hologenomics data generation and analysis
@@ -17,9 +17,9 @@ Content examples:
 - <a href="https://github.com/CABAH/SEOZ_megafauna_extirpation">SEOZ_megafauna_extirpation</a>: Inferring spatio-temporal trajectories of megafauna extirpations (local extinction) and initial human colonisation in southeastern Australia
 
 ### Learning resources
-- <a href="https://github.com/CABAH/learningRresources">learningRresources</a>: Various online & other resources for learning and improving skills in the R programming language
 - <a href="https://github.com/CABAH/assignDOI">assignDOI</a>: Assign a digital object identifier (DOI) to your Github repository
 - <a href="https://github.com/CABAH/FAIR_Workshop_github">FAIR_Workshop_github</a>: A repository for practising the basic use of Github
+- <a href="https://github.com/CABAH/learningRresources">learningRresources</a>: Various online & other resources for learning and improving skills in the R programming language
 
 ### Software/utilities
 - <a href="https://github.com/CABAH/QGIS">QGIS</a>: A free, open source, cross platform (lin/win/mac) geographical information system (GIS)
