@@ -15,6 +15,7 @@ Example content:
 - <a href="https://github.com/CABAH/holoflow">holoflow</a>: Bioinformatics pipeline for hologenomics data generation and analysis
 - <a href="https://github.com/CABAH/Inferring-networks-and-modelling-trophic-cascades/tree/master">Inferring-networks-and-modelling-trophic-cascades</a>: Scripts and data associated with the paper: Sahul’s megafauna species were vulnerable to plant-community changes due to their position in the trophic network
 - <a href="https://github.com/CABAH/MegafaunaSusceptibility">MegafaunaSusceptibility</a>: R code for building stochastic demographic models of extinct megafauna of Sahul
+- <a href="https://github.com/CABAH/Predator-prey-ABM">Predator-prey-ABM</a>: code and simulation data for agent-based model in paper: Habitat features and performance interact to determine the outcomes of terrestrial predator–prey pursuits
 - <a href="https://github.com/CABAH/SahulHumanSpread">SahulHumanSpread</a>: Code and data files necessary for reproducing cellular-automaton model of human spread across Sahul
 - <a href="https://github.com/CABAH/SEOZ_megafauna_extirpation">SEOZ_megafauna_extirpation</a>: Inferring spatio-temporal trajectories of megafauna extirpations (local extinction) and initial human colonisation in southeastern Australia
 
