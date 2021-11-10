@@ -2,7 +2,7 @@
 
 This is the shared Github code and data repository for members of CABAH. Curated by @<a href="https://github.com/cjabradshaw">cjabradshaw</a> & @<a href="https://github.com/FredSaltre">fredsaltre</a> (please <a href="https://github.com/cjabradshaw">contact</a> for membership).
 
-Content examples:
+Example content:
 
 ### Databases
 - <a href="https://github.com/CABAH/FosSahul">FosSahul</a>: A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates
