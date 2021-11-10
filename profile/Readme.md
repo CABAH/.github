@@ -6,6 +6,7 @@ Example content:
 
 ### Databases
 - <a href="https://github.com/CABAH/FosSahul">FosSahul</a>: A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates
+- <a href="https://github.com/CABAH/IPPD">IPPD</a>: An evolving, open-access database of the largest collection of palaecological information in the Indo-Pacific region 
 - <a href="https://github.com/CABAH/MegafaunaSusceptibility">MegafaunaSusceptibility</a>: R code for building stochastic demographic models of extinct megafauna of Sahul
 - <a href="https://github.com/CABAH/neotoma2">Neotoma</a>: This R package pulls data from the Neotoma Palaeoecology Database, an online hub for data, research, education, and discussion about palaeoenvironments
 - <a href="https://github.com/CABAH/OCTOPUS">OCTOPUS</a>: Open Cosmogenic Isotope and Luminescence Database
