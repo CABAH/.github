@@ -33,6 +33,8 @@ Example content:
 ### Software/utilities
 <img src="profile/softwareLogo.png" alt="" width="75" align="right" />
 - <a href="https://github.com/CABAH/QGIS">QGIS</a>: A free, open source, cross platform (lin/win/mac) geographical information system (GIS)
-
+<br>
+<br>
+<br>
 [<img src="profile/CabahFCP.jpg" alt="Centre of Excellence for Australian Biodiversity and Heritage" width="170" align="left" />](http://EpicAustralia.org.au)
 [<img src="profile/australian-research-council.png" alt="Australian Research Council" width="330" align="left" />](http://www.arc.gov.au)
