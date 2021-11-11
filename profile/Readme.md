@@ -6,6 +6,7 @@ Example content:
 
 ### Databases
 <img src="profile/databaseLogo.png" alt="" width="75" align="right" />
+
 - <a href="https://github.com/AtlasOfLivingAustralia">Atlas of Living Australia</a>: Free and open source IT infrastructure for the aggregation and delivery of biodiversity data (links to Github organisation page)
 - <a href="https://github.com/CABAH/FosSahul">FosSahul</a>: A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates
 - <a href="https://github.com/CABAH/IPPD">IPPD</a>: An evolving, open-access database of the largest collection of palaecological information in the Indo-Pacific region
@@ -16,6 +17,7 @@ Example content:
 
 ### Scripts
 <img src="profile/scriptsLogo.png" alt="" width="75" align="right" />
+
 - <a href="https://github.com/CABAH/holoflow">holoflow</a>: Bioinformatics pipeline for hologenomics data generation and analysis
 - <a href="https://github.com/CABAH/Inferring-networks-and-modelling-trophic-cascades/tree/master">Inferring-networks-and-modelling-trophic-cascades</a>: Scripts and data associated with the paper: Sahul’s megafauna species were vulnerable to plant-community changes due to their position in the trophic network
 - <a href="https://github.com/CABAH/MegafaunaSusceptibility">MegafaunaSusceptibility</a>: R code for building stochastic demographic models of extinct megafauna of Sahul
@@ -25,6 +27,7 @@ Example content:
 
 ### Learning resources
 <img src="profile/learningLogo.png" alt="" width="75" align="right" />
+
 - <a href="https://github.com/CABAH/assignDOI">assignDOI</a>: Assign a digital object identifier (DOI) to your Github repository
 - <a href="https://github.com/CABAH/FAIR_Workshop_github">FAIR_Workshop_github</a>: A repository for practising the basic use of Github
 - <a href="https://github.com/CABAH/learningRresources">learningRresources</a>: Various online & other resources for learning and improving skills in the R programming language
@@ -32,6 +35,7 @@ Example content:
 
 ### Software/utilities
 <img src="profile/softwareLogo.png" alt="" width="75" align="right" />
+
 - <a href="https://github.com/CABAH/QGIS">QGIS</a>: A free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 
 
