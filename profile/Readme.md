@@ -5,6 +5,7 @@ This is the shared Github code and data repository for members of CABAH. Curated
 Example content:
 
 ### Databases
+<img src="profile/databaseLogo.png" alt="" width="150" align="right" />
 - <a href="https://github.com/AtlasOfLivingAustralia">Atlas of Living Australia</a>: Free and open source IT infrastructure for the aggregation and delivery of biodiversity data (links to Github organisation page)
 - <a href="https://github.com/CABAH/FosSahul">FosSahul</a>: A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates
 - <a href="https://github.com/CABAH/IPPD">IPPD</a>: An evolving, open-access database of the largest collection of palaecological information in the Indo-Pacific region
