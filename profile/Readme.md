@@ -14,6 +14,7 @@ Example content:
 - <a href="https://github.com/CABAH/neotoma2">Neotoma</a>: This R package pulls data from the <a href="http://neotomadb.org/">Neotoma Palaeoecology Database</a>, an online hub for data, research, education, and discussion about palaeoenvironments
 - <a href="https://github.com/CABAH/OCTOPUS">OCTOPUS</a>: Open Cosmogenic Isotope and Luminescence Database
 - <a href="https://github.com/CABAH/SahulArch">SahulArch</a>: Database of published radiocarbon ages for archaeological records from Sahul
+- <a href="https://www.worldclim.org/data/index.html">WorldClim</a>: a database of high spatial resolution global weather and climate data (see <a href="https://gis.stackexchange.com/questions/227585/using-r-to-extract-data-from-worldclim">here</a> for instructions on how to access the data directly from R)
 
 ### Scripts
 <img src="profile/scriptsLogo.png" alt="" width="75" align="right" />
