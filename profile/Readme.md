@@ -8,12 +8,12 @@ Example content:
 <img src="profile/databaseLogo.png" alt="" width="75" align="right" />
 
 - <a href="https://github.com/AtlasOfLivingAustralia">Atlas of Living Australia</a>: Free and open source IT infrastructure for the aggregation and delivery of biodiversity data (links to Github organisation page)
-- <a href="https://github.com/CABAH/FosSahul">FosSahul</a>: A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates
-- <a href="https://github.com/CABAH/IPPD">IPPD</a>: An evolving, open-access database of the largest collection of palaecological information in the Indo-Pacific region
+- <a href="https://github.com/CABAH/FosSahul">FosSahul</a>: A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates (a CABAH product)
+- <a href="https://github.com/CABAH/IPPD">IPPD</a>: An evolving, open-access database of the largest collection of palaecological information in the Indo-Pacific region (a CABAH product)
 - <a href="https://github.com/MorphoSource">MorphoSource</a>: Find, view, and download 3D data representing the world's natural history, cultural heritage, and scientific collections (links to Github organisation page)
 - <a href="https://github.com/CABAH/neotoma2">Neotoma</a>: This R package pulls data from the <a href="http://neotomadb.org/">Neotoma Palaeoecology Database</a>, an online hub for data, research, education, and discussion about palaeoenvironments
-- <a href="https://github.com/CABAH/OCTOPUS">OCTOPUS</a>: Open Cosmogenic Isotope and Luminescence Database
-- <a href="https://github.com/CABAH/SahulArch">SahulArch</a>: Database of published radiocarbon ages for archaeological records from Sahul
+- <a href="https://github.com/CABAH/OCTOPUS">OCTOPUS</a>: Open Cosmogenic Isotope and Luminescence Database (a CABAH product)
+- <a href="https://github.com/CABAH/SahulArch">SahulArch</a>: Database of published radiocarbon ages for archaeological records from Sahul (a CABAH product)
 - <a href="https://www.worldclim.org/data/index.html">WorldClim</a>: a database of high spatial resolution global weather and climate data (see <a href="https://gis.stackexchange.com/questions/227585/using-r-to-extract-data-from-worldclim">here</a> for instructions on how to access the data directly from R)
 
 ### Scripts
