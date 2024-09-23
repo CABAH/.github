@@ -5,7 +5,7 @@ This is the shared Github code and data repository for members of CABAH. Curated
 Example content:
 
 ### Databases
-<img src="profile/databaseLogo.png" alt="" width="75" align="right" />
+<img src="https://github.com/CABAH/.github/blob/main/profile/databaseLogo.png" alt="" width="75" align="right" />
 
 - <a href="https://github.com/AtlasOfLivingAustralia"><em>Atlas of Living Australia</em></a>: Free and open source IT infrastructure for the aggregation and delivery of biodiversity data (links to Github organisation page)
 - <a href="https://github.com/CABAH/FosSahul"><em>FosSahul</em></a>: A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates (a CABAH product)
@@ -17,7 +17,7 @@ Example content:
 - <a href="https://www.worldclim.org/data/index.html"><em>WorldClim</em></a>: a database of high spatial resolution global weather and climate data (see <a href="https://gis.stackexchange.com/questions/227585/using-r-to-extract-data-from-worldclim">here</a> for instructions on how to access the data directly from R)
 
 ### Scripts
-<img src="profile/scriptsLogo.png" alt="" width="75" align="right" />
+<img src="https://github.com/CABAH/.github/blob/main/profile/scriptsLogo.png" alt="" width="75" align="right" />
 
 - <a href="https://github.com/CABAH/holoflow">holoflow</a>: Bioinformatics pipeline for hologenomics data generation and analysis
 - <a href="https://github.com/CABAH/Inferring-networks-and-modelling-trophic-cascades/tree/master">Inferring-networks-and-modelling-trophic-cascades</a>: Scripts and data associated with the paper: Sahul’s megafauna species were vulnerable to plant-community changes due to their position in the trophic network
@@ -27,7 +27,7 @@ Example content:
 - <a href="https://github.com/CABAH/SEOZ_megafauna_extirpation">SEOZ_megafauna_extirpation</a>: Inferring spatio-temporal trajectories of megafauna extirpations (local extinction) and initial human colonisation in southeastern Australia
 
 ### Learning resources
-<img src="profile/learningLogo.png" alt="" width="75" align="right" />
+<img src="https://github.com/CABAH/.github/blob/main/profile/learningLogo.png" alt="" width="75" align="right" />
 
 - <a href="https://github.com/CABAH/assignDOI">assignDOI</a>: Assign a digital object identifier (DOI) to your Github repository
 - <a href="https://github.com/CABAH/FAIR_Workshop_github">FAIR_Workshop_github</a>: A repository for practising the basic use of Github
@@ -35,7 +35,7 @@ Example content:
 - <a href="https://github.com/CABAH/learningPythonResources">learningPythonResources</a>: Various online & other resources for learning and improving skills in the Python programming language
 
 ### Software/utilities
-<img src="profile/softwareLogo.png" alt="" width="75" align="right" />
+<img src="https://github.com/CABAH/.github/blob/main/profile/softwareLogo.png" alt="" width="75" align="right" />
 
 - <a href="https://github.com/CABAH/QGIS">QGIS</a>: A free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 
