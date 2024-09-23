@@ -43,4 +43,4 @@ Example content:
 <br>
 
 [<img src="https://github.com/CABAH/.github/blob/main/profile/CabahFCP.jpg" alt="Centre of Excellence for Australian Biodiversity and Heritage" width="170" align="left" />](http://EpicAustralia.org.au)
-[<img src="profile/australian-research-council.png" alt="Australian Research Council" width="330" align="left" />](http://www.arc.gov.au)
+[<img src="https://github.com/CABAH/.github/blob/main/profile/australian-research-council.png" alt="Australian Research Council" width="330" align="left" />](http://www.arc.gov.au)
